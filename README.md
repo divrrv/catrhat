@@ -24,8 +24,24 @@ Lataa se osoitteesta: https://cdimage.debian.org/images/unofficial/non-free/imag
 ![4](https://user-images.githubusercontent.com/112497215/212956217-a097e387-d67b-44a0-b731-43ac7840c2f5.PNG)
 
 ### Käynnistä luotu virtualikone
+![image](https://user-images.githubusercontent.com/112497215/212956816-74192ad1-4aea-4168-b310-cdd948d7ddaa.png)
+
 
 ### Valitse Debian Installer
+![image](https://user-images.githubusercontent.com/112497215/212957007-f7d8ad0e-d289-48ed-be68-343d678101a3.png)
+![image](https://user-images.githubusercontent.com/112497215/212957235-69c28206-1b69-4c59-a6fa-9dda30a30ddf.png)
+![image](https://user-images.githubusercontent.com/112497215/212957331-d3dad346-e1ea-4158-84f1-1eab932941cd.png)
+![image](https://user-images.githubusercontent.com/112497215/212957466-2a2e319a-a116-4f5b-aad5-436dd2a94567.png)
+![image](https://user-images.githubusercontent.com/112497215/212957580-535bd1a1-728c-4fb3-9f23-e60f389d83e8.png)
+![image](https://user-images.githubusercontent.com/112497215/212957671-f9979921-8ec3-406f-a8da-454b842301d3.png)
+![image](https://user-images.githubusercontent.com/112497215/212957902-eb3dbb65-7ea7-4559-b27d-5972fa2e6152.png)
+
+
+
+
+
+
+
 
 ### Latauksen jälkeen
 suorita seuraavat komennot terminaalissa: sudo apt-get update, sudo apt-get -y dist-upgrade, sudo apt-get -y install ufw, sudo ufw enable
