@@ -48,5 +48,5 @@ summa summarum
 ### Latauksen jälkeen
 suorita seuraavat komennot terminaalissa: sudo apt-get update, sudo apt-get -y dist-upgrade, sudo apt-get -y install ufw, sudo ufw enable
 
-##VALMISTA
+## VALMISTA
 
